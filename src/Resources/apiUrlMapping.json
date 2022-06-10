@@ -1,0 +1,6 @@
+{
+    "studentData": {
+        "get": "https://jntuademo.herokuapp.com/api/v1/studentData",
+        "post": "http://localhost:8081/api/v1/studentData"
+    }
+}
